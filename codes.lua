@@ -15,6 +15,8 @@ return {
         "Beary",
         "ShortCake",
         "VALENTINES2025",
-        "BLOSSOM"
+        "BLOSSOM",
+        "Duck",
+        "Watch"
     }
 }
